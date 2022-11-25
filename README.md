@@ -3,6 +3,9 @@ University Admit Eligibility Predictor
 
 Team ID : PNT2022TMID32417
 
-Team Members:Jaya Shree N ,Harshit kumar G B ,Jebastin Timothy P ,Jeya Dharani T
+Team Members:Jaya Shree N 
+             Harshit kumar G B
+             Jebastin Timothy P 
+             Jeya Dharani T
 
 Domain:Applied Data Science
